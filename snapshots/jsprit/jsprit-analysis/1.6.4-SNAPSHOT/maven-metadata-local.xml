@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>jsprit</groupId>
+  <artifactId>jsprit-analysis</artifactId>
+  <version>1.6.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20160508220046</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.6.4-SNAPSHOT</value>
+        <updated>20160508220046</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.6.4-SNAPSHOT</value>
+        <updated>20160508220046</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.6.4-SNAPSHOT</value>
+        <updated>20160508220046</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
